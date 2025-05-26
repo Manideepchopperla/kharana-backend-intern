@@ -1,0 +1,15 @@
+{
+  "name": "kharana-backend-intern",
+  "version": "1.0.0",
+  "main": "main.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "python",
+    "backend"
+  ],
+  "author": "Manideep Chopperla",
+  "license": "ISC",
+  "description": ""
+}
