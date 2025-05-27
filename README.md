@@ -87,6 +87,10 @@ np.sum(dA) * du * dv
 
 ```
 
+### Challenges Faced :
+ 
+ *  Converting the Surface Area formula  [ ***A = ∫∫ ||(∂r/∂u) × (∂r/∂v)|| du dv*** ]  into code.
+
 ## Example :
 
   ### Input : 
